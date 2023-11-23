@@ -783,3 +783,5 @@ $ python3 wgan_div.py
 
 
 Measure current next life board turn.
+
+Card throw may truth.
